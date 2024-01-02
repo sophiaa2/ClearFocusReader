@@ -1,0 +1,9 @@
+{
+    "name": "ClearFocus Reader",
+    "description": "Tools for reading text",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+     
+    }
+  }
